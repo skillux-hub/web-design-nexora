@@ -56,7 +56,7 @@ The output directory must be new or empty. Open its `index.html` directly or ser
 | `tokens.css` | Locked palette tokens |
 | `assets/starter/` | The complete starter site (HTML, CSS, JS, SVG, photographs) |
 
-> Note: this repository contains the skill definition, generator, references, and starter source. Binary media files are distributed with the free pack download on Skillux.
+> Note: this repository contains the skill definition, generator, references, and starter source. Binary media files are included in this repository — the repo is the complete free pack.
 
 ## Adapting it
 
@@ -67,3 +67,4 @@ Read `references/design-spec.md` for composition and responsive contracts, and `
 - Product page (free): https://skillux.dev/skills/web-design-nexora
 - Topic: frontend design skills — https://skillux.dev/frontend-design-skills
 - More AI design skills for Claude Code, Cursor & Codex: https://skillux.dev
+- Featured on Product Hunt: https://www.producthunt.com/products/skillux
