@@ -1,0 +1,15 @@
+/* Nexora locked palette — extracted from assets/starter/styles.css */
+:root {
+  --mint: #21cd97;
+  --blue: #292094;
+  --green: #087f61;
+  --ink: #212b36;
+  --muted: #647078;
+  --paper: #f5f8f6;
+  --hero-alt: #174fc6;
+  --industry: #0d1c44;
+  --contact: #16b98b;
+  --focus: #eab83f;
+  --display: Arial, Helvetica, sans-serif;
+  --radius: 2px;
+}
